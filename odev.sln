@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deneme", "1-CMTPZRODEV\Deneme.csproj", "{08BB7D95-A998-49AC-A75E-86B8516660DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZRTODEV", "PZRTODEV\PZRTODEV.csproj", "{B5D3DA15-2F94-4F75-95E3-9D7BCFACFF82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{08BB7D95-A998-49AC-A75E-86B8516660DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08BB7D95-A998-49AC-A75E-86B8516660DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08BB7D95-A998-49AC-A75E-86B8516660DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D3DA15-2F94-4F75-95E3-9D7BCFACFF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D3DA15-2F94-4F75-95E3-9D7BCFACFF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D3DA15-2F94-4F75-95E3-9D7BCFACFF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D3DA15-2F94-4F75-95E3-9D7BCFACFF82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
